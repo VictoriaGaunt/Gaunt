@@ -1,31 +1,22 @@
-<!--
-Frontend Developer · Fullstack Developer · Vue · Nuxt · TypeScript · ASP.NET Core · C# · Node.js · Python · Docker · Dashboards · Analytics · Admin Panels · Clean Architecture
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F8FAFC,35:EDE9FE,70:EEF2FF,100:FFE4E6&text=Victoria%20Gaunt&fontSize=54&fontColor=312E81&fontAlignY=38&desc=Frontend%20%2F%20Fullstack%20Developer%20%C2%B7%20Vue%20%C2%B7%20Nuxt%20%C2%B7%20TypeScript%20%C2%B7%20ASP.NET%20Core&descSize=18&descAlignY=58&descColor=4F46E5&animation=fadeIn" width="100%" alt="Victoria Gaunt hero banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:052c4f,100:396b98&text=Victoria%20Gaunt&fontSize=56&fontColor=ddeaf6&fontAlignY=38&desc=Frontend%20%2F%20Fullstack%20Developer%20%C2%B7%20Vue%20%C2%B7%20Nuxt%20%C2%B7%20TypeScript%20%C2%B7%20ASP.NET%20Core&descSize=20&descAlignY=58&descColor=ddeaf6&animation=fadeIn" width="100%" alt="Victoria Gaunt hero banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3200&pause=1100&color=4F46E5&center=true&vCenter=true&width=1000&lines=Building+clean%2C+scalable+and+maintainable+web+applications;Designing+frontend+architecture+with+strong+typed+logic;Creating+dashboards%2C+admin+panels+and+analytics-driven+interfaces;Turning+business+requirements+into+working+digital+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=DDEAF6&center=true&vCenter=true&width=1000&lines=Creating+dashboards%2C+admin+panels+and+analytics-driven+interfaces;Designing+frontend+architecture+with+typed+logic;Turning+business+requirements+into+working+digital+products" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://github.com/VictoriaGaunt">
-  <img src="https://img.shields.io/badge/GitHub-VictoriaGaunt-374151?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-VICTORIAGAUNT-120767?style=for-the-badge&logo=github&logoColor=DDEAF6&labelColor=120767" alt="GitHub" />
 </a>
-<a href="https://t.me/Gaunt_W">
-  <img src="https://img.shields.io/badge/Telegram-@Gaunt_W-4F46E5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<a href="https://t.me/@KotzTori">
+  <img src="https://img.shields.io/badge/Telegram-@Kotz_Tori-120767?style=for-the-badge&logo=telegram&logoColor=DDEAF6&labelColor=120767" alt="Telegram" />
 </a>
 <a href="mailto:vika.argent@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vika.argent%40gmail.com-FB7185?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-VIKA.ARGENT%40GMAIL.COM-120767?style=for-the-badge&logo=gmail&logoColor=DDEAF6&labelColor=120767" alt="Email" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=VictoriaGaunt&style=for-the-badge&color=6366F1" alt="Profile views" />
-
 </div>
 
 ---
@@ -54,40 +45,64 @@ My main strength is combining **frontend engineering, product thinking and analy
 
 ---
 
-## Professional focus
-
-```mermaid
-pie showData
-    title Professional Focus
-    "Frontend Architecture" : 35
-    "Fullstack Development" : 25
-    "Dashboards & Analytics" : 20
-    "API Integration" : 12
-    "Product Thinking" : 8
-````
-
----
-
 ## GitHub analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VictoriaGaunt&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&title_color=FFFFFF&text_color=C7D2FE&icon_color=FB7185&bg_color=1E1B4B" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaGaunt&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=FFFFFF&text_color=C7D2FE&bg_color=1E1B4B" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VictoriaGaunt&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaGaunt&layout=compact&hide_border=true&langs_count=8&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=VictoriaGaunt&theme=tokyonight&hide_border=true&background=1E1B4B&ring=FB7185&fire=FB7185&currStreakLabel=C7D2FE" alt="GitHub Streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=VictoriaGaunt&hide_border=true&background=052c4f&ring=2986CC&fire=2986CC&currStreakLabel=DDEAF6&sideLabels=DDEAF6&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=396B98" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictoriaGaunt&bg_color=F3F4F6&color=111827&line=4F46E5&point=FB7185&area=true&area_color=C7D2FE&hide_border=true" alt="GitHub Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictoriaGaunt&bg_color=052c4f&color=ffffff&line=cfe2f3&point=FFF7E0&area=true&area_color=396b98&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
+
+---
+
+## Professional focus
+
+<div align="center">
+
+```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "pie1": "#5b5b5b",
+    "pie2": "#990000",
+    "pie3": "#0b5394",
+    "pie4": "#1d7629",
+    "pie5": "#351c75",
+    "pieTitleTextColor": "#ddeaf6",
+    "pieSectionTextColor": "#ffffff",
+    "pieLegendTextColor": "#ffffff",
+    "pieOuterStrokeColor": "#052c4f",
+    "pieOuterStrokeWidth": "2px",
+    "fontFamily": "Inter, Segoe UI, sans-serif"
+  }
+}}%%
+pie showData
+    title Professional Focus
+    "Frontend Architecture [35]" : 35
+    "Fullstack Development [25]" : 25
+    "Dashboards & Analytics [20]" : 20
+    "API Integration [12]" : 12
+    "Product Thinking [8]" : 8
+````
+
+</div>
+
+> **Note:** this chart is **manual**, not generated by GitHub.
+> It reflects my current professional positioning and can be adjusted depending on portfolio focus.
 
 ---
 
@@ -110,17 +125,21 @@ pie showData
 <div align="center">
 
 <a href="https://github.com/VictoriaGaunt/3DOutlet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=3DOutlet&hide_border=true&title_color=FFFFFF&text_color=C7D2FE&icon_color=FB7185&bg_color=1E1B4B" alt="3DOutlet repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=3DOutlet&hide_border=true&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="3DOutlet repository card" />
 </a>
+
 <a href="https://github.com/VictoriaGaunt/ParkMon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=ParkMon&hide_border=true&title_color=FFFFFF&text_color=C7D2FE&icon_color=FB7185&bg_color=1E1B4B" alt="ParkMon repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=ParkMon&hide_border=true&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="ParkMon repository card" />
 </a>
 
 <a href="https://github.com/VictoriaGaunt/PhDPlatform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=PhDPlatform&hide_border=true&title_color=FFFFFF&text_color=C7D2FE&icon_color=FB7185&bg_color=1E1B4B" alt="PhDPlatform repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=PhDPlatform&hide_border=true&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="PhDPlatform repository card" />
 </a>
+
+<!-- Если tronk.todo продолжает ломать блок, либо проверь точное имя репозитория, либо временно убери этот card -->
+
 <a href="https://github.com/VictoriaGaunt/tronk.todo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=tronk.todo&hide_border=true&title_color=FFFFFF&text_color=C7D2FE&icon_color=FB7185&bg_color=1E1B4B" alt="tronk.todo repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaGaunt&repo=tronk.todo&hide_border=true&bg_color=052c4f&title_color=ddeaf6&text_color=ffffff&icon_color=2986CC&border_color=396b98" alt="tronk.todo repository card" />
 </a>
 
 </div>
@@ -141,13 +160,13 @@ pie showData
 
 ## Contact
 
-* Telegram: [@Gaunt_W](https://t.me/Gaunt_W)
+* Telegram: [@Gaunt_W](https://t.me/@KotzTori)
 * Email: [vika.argent@gmail.com](mailto:vika.argent@gmail.com)
 
 ---
 
 <div align="center">
 
-I build thoughtful interfaces and scalable systems that turn data into insight and ideas into working products.
+### I build thoughtful interfaces and scalable systems that turn data into insight and ideas into working products.
 
 </div>
